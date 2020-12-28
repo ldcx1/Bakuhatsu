@@ -19,7 +19,7 @@ public class Main extends Game {
 		View view = new View(this);
 		Model model = new Model();
 		Controller controller = new Controller(view, model);
-		//Gdx.graphics.setFullscreenMode(Gdx.graphics.getDisplayMode());
+		Gdx.graphics.setFullscreenMode(Gdx.graphics.getDisplayMode());
 	}
 
 	@Override
