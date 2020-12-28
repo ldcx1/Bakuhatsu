@@ -113,7 +113,7 @@ public class Model implements ContactListener {
         Object classBObj = contact.getFixtureB().getBody().getUserData();
 
         if(classAObj instanceof Target && classBObj instanceof Target) {
-            Gdx.app.log("Collider", "Box2D u k??");
+            //Gdx.app.log("Collider", "Box2D u k??");
             return;
         }
 
