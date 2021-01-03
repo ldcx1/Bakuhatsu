@@ -3,10 +3,6 @@ A simple LibGDX game.
 
 [![no image](https://github.com/ldcx1/Bakuhatsu/blob/master/preview.gif)](https://youtu.be/qj26u9iDHHE)
 
-There are some small bugs regarding the interface. 
-
-Game wise, Box2D seems to not like what I did when there are many bodies in world, as it starts checking for collison between objects that are setted to not collide.
-
 Also I do not own any of the images that are used in the game.
 Here are the sources for them:
 * [Angle, zombie, projectile](https://assetstore.unity.com/packages/2d/characters/gothicvania-church-pack-147117)
